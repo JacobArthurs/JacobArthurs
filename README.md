@@ -13,7 +13,9 @@ Currently pursuing my MS in Computer Science at Georgia Tech.
 ## Technical Skills
 
 **Languages:** · C# · TypeScript · Python · Go
+
 **Infrastructure:** · AWS · Terraform · Docker · GitHub Actions
+
 **Data:** · PostgreSQL · MSSQL · S3 · OpenSearch
 
 ---
