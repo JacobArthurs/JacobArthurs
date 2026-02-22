@@ -28,11 +28,10 @@ Currently pursuing my MS in Computer Science at Georgia Tech.
 - [Building Plotly.js Heatmaps That Work in Offline Environments](https://blog.jacobarthurs.com/post/building-plotly-heatmaps-that-work-in-offline-environments) — 2026-01-15
 <!-- BLOG-POSTS:END -->
 
-→ [See all posts](https://blog.jacobarthurs.com)
+→ Read more on [Blog.JacobArthurs.com](https://blog.jacobarthurs.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JacobArthurs&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobArthurs&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=JacobArthurs&style=flat-square&color=blue"/>
 </p>
