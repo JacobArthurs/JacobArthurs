@@ -26,5 +26,6 @@ jobs:
           git diff --quiet README.md || (
             git add README.md &&
             git commit -m "chore: update recent blog posts" &&
+            git pull --rebase &&
             git push
           )
