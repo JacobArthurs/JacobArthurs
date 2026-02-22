@@ -2,8 +2,11 @@ import urllib.request, json, re
 
 url = "https://api.jacobarthurs.com/blog/posts/?offset=0&limit=5"
 try:
-    request = urllib.request.Request(url, headers={"User-Agent": "github-actions/update-blog-posts"})
-    with urllib.request.urlopen(request) as response:
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Mozilla/5.0"}
+    )
+    with urllib.request.urlopen(req) as response:
         data = json.load(response)
 except Exception as e:
     print(f"Failed to fetch blog posts: {e}")
