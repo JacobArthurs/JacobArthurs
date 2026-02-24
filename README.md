@@ -13,11 +13,11 @@ Currently pursuing my MS in Computer Science at Georgia Tech.
 ## Recent Writing
 
 <!-- BLOG-POSTS:START -->
+- [Shipping a Go Binary Through npm](https://blog.jacobarthurs.com/post/shipping-a-go-binary-through-npm) — 2026-02-17
 - [The Last Era of Learning to Code the Hard Way](https://blog.jacobarthurs.com/post/the-last-era-of-learning-to-code-the-hard-way) — 2026-02-08
 - [The Two Gulfs Every Software Engineer Should Know About](https://blog.jacobarthurs.com/post/the-two-gulfs-every-software-engineer-should-know-about) — 2026-01-29
 - [What I Actually Learned from Georgia Tech's HCI Course (And Why It Changed How I Build Software)](https://blog.jacobarthurs.com/post/what-i-actually-learned-from-georgia-techs-hci-course-and-why-it-changed-how-i-build-software) — 2026-01-22
 - [Why I'm Writing This Blog (And Why I Built It From Scratch)](https://blog.jacobarthurs.com/post/why-im-writing-this-blog) — 2026-01-16
-- [Building Plotly.js Heatmaps That Work in Offline Environments](https://blog.jacobarthurs.com/post/building-plotly-heatmaps-that-work-in-offline-environments) — 2026-01-15
 <!-- BLOG-POSTS:END -->
 
 → Read more on [Blog.JacobArthurs.com](https://blog.jacobarthurs.com)
