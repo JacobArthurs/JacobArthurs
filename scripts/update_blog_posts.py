@@ -2,7 +2,7 @@ import urllib.request, re
 from xml.etree import ElementTree
 from email.utils import parsedate_to_datetime
 
-url = "https://blog.jacobarthurs.com/rss.xml"
+url = "https://api.jacobarthurs.com/blog/rss.xml"
 try:
     with urllib.request.urlopen(url) as response:
         tree = ElementTree.parse(response)
