@@ -10,6 +10,13 @@ Currently pursuing my MS in Computer Science at Georgia Tech.
 
 ---
 
+## What I'm Working On
+
+- [shipbin](https://github.com/JacobArthurs/shipbin)
+- [pgplan](https://github.com/JacobArthurs/pgplan)
+
+---
+
 ## Recent Writing
 
 <!-- BLOG-POSTS:START -->
