@@ -12,8 +12,8 @@ Currently pursuing my MS in Computer Science at Georgia Tech.
 
 ## What I'm Working On
 
+- [gitrisk](https://github.com/JacobArthurs/gitrisk)
 - [shipbin](https://github.com/JacobArthurs/shipbin)
-- [pgplan](https://github.com/JacobArthurs/pgplan)
 
 ---
 
