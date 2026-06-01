@@ -4,16 +4,9 @@
 
 [JacobArthurs.com](https://jacobarthurs.com) · [LinkedIn](https://linkedin.com/in/jacobarthurs)
 
-Over my career, I've taken end-to-end ownership from architectural design to production — migrating databases with 60% performance gains, rebuilding enterprise integrations, and implementing secure B2B authentication systems.
+Over my career, I've taken end-to-end ownership from architectural design to production; migrating databases with 60% performance gains, rebuilding enterprise integrations, and implementing secure B2B authentication systems.
 
 Currently pursuing my MS in Computer Science at Georgia Tech.
-
----
-
-## What I'm Working On
-
-- [gitrisk](https://github.com/JacobArthurs/gitrisk)
-- [shipbin](https://github.com/JacobArthurs/shipbin)
 
 ---
 
